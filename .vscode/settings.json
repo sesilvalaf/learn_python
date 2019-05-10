@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\sesil\\Anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\sesil\\Anaconda3\\python.exe",
+    "python.formatting.provider": "autopep8"
 }
